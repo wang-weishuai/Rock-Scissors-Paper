@@ -22,3 +22,6 @@ As we must provide API to leap motion, ./protos uses the open-source code of [te
     
 ### Demonstration
 
+![image](https://github.com/wang-weishuai/Rock-Scissors-Paper/blob/main/leap-motion.jpeg)
+
+**Note: I couldn't find the photos and videos taking during the experiment, so I chose a similar picture from Google. I will replace them with correct pictures as soon as possible**
